@@ -1,0 +1,3 @@
+[submodule "demo-test-app"]
+	path = demo-test-app
+	url = https://github.com/pradityamsook/Odoo-IONIC-ERP.git
